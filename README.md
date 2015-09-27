@@ -3,7 +3,7 @@ Functional Programming
 
 Introduction
 ------------
-This is a repository containing shared resources for the Functional Programming course at the University of Birmingham. 
+This is a repository containing shared resources for the Functional Programming module at the University of Birmingham. 
 
 You can visit the [main repository page][main-repo] to find out more about the idea and how to contribute.
 
