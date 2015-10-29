@@ -1,7 +1,7 @@
 Functional Programming
 ======================
 
-Introduction
+Introduction  
 ------------
 This is a repository containing shared resources for the Functional Programming module at the University of Birmingham. 
 
